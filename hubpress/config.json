@@ -1,7 +1,7 @@
 {
   "meta": {
     "worldinfo": "put your username here",
-    "http://worldinfo.github.io/": "put your repository name here",
+    "worldinfo.github.io": "put your repository name here",
     "branch": "master"
   },
   "theme": {
